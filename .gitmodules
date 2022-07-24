@@ -1,3 +1,6 @@
 [submodule "Real-World_Vue-3"]
 	path = Real-World_Vue-3
 	url = https://github.com/efwoods/Real-World_Vue-3.git
+[submodule "Vue-3-Forms"]
+	path = Vue-3-Forms
+	url = https://github.com/Code-Pop/Vue-3-Forms.git
