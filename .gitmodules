@@ -4,3 +4,6 @@
 [submodule "Vue-3-Forms"]
 	path = Vue-3-Forms
 	url = https://github.com/efwoods/Vue-3-Forms.git
+[submodule "Intro-to-Vue"]
+	path = Intro-to-Vue
+	url = https://github.com/efwoods/Intro-to-Vue-3.git
