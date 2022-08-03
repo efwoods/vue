@@ -10,3 +10,6 @@
 [submodule "Real-World-Vue-3"]
 	path = Real-World-Vue-3
 	url = https://github.com/efwoods/Real-World-Vue-3.git
+[submodule "jsoup-frontend"]
+	path = jsoup-frontend
+	url = https://github.com/efwoods/jsoup-frontend
