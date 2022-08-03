@@ -7,3 +7,6 @@
 [submodule "Intro-to-Vue-3"]
 	path = Intro-to-Vue-3
 	url = https://github.com/efwoods/Intro-to-Vue-3.git
+[submodule "Real-World-Vue-3"]
+	path = Real-World-Vue-3
+	url = https://github.com/efwoods/Real-World-Vue-3.git
