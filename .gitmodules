@@ -28,3 +28,6 @@
 [submodule "reusable-components/Base-Checkbox"]
 	path = reusable-components/Base-Checkbox
 	url = https://github.com/efwoods/Base-Checkbox.git
+[submodule "reusable-components/Base-Radio"]
+	path = reusable-components/Base-Radio
+	url = https://github.com/efwoods/Base-Radio.git
