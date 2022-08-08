@@ -13,3 +13,6 @@
 [submodule "jsoup-frontend"]
 	path = jsoup-frontend
 	url = https://github.com/efwoods/jsoup-frontend
+[submodule "Auto-Importing-Components"]
+	path = Auto-Importing-Components
+	url = https://github.com/efwoods/Auto-Importing-Components
