@@ -16,3 +16,6 @@
 [submodule "Auto-Importing-Components"]
 	path = Auto-Importing-Components
 	url = https://github.com/efwoods/Auto-Importing-Components
+[submodule "Base-Input"]
+	path = Base-Input
+	url = https://github.com/efwoods/Base-Input.git
