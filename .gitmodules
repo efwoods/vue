@@ -25,3 +25,6 @@
 [submodule "reusable-components/Auto-Importing-Components"]
 	path = reusable-components/Auto-Importing-Components
 	url = https://github.com/efwoods/Auto-Importing-Components.git
+[submodule "reusable-components/Base-Checkbox"]
+	path = reusable-components/Base-Checkbox
+	url = https://github.com/efwoods/Base-Checkbox.git
