@@ -22,3 +22,6 @@
 [submodule "reusable-components/Base-Input"]
 	path = reusable-components/Base-Input
 	url = https://github.com/efwoods/Base-Input.git
+[submodule "reusable-components/Auto-Importing-Components"]
+	path = reusable-components/Auto-Importing-Components
+	url = https://github.com/efwoods/Auto-Importing-Components.git
