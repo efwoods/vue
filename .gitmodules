@@ -31,3 +31,6 @@
 [submodule "reusable-components/Base-Radio"]
 	path = reusable-components/Base-Radio
 	url = https://github.com/efwoods/Base-Radio.git
+[submodule "vue-template"]
+	path = vue-template
+	url = https://github.com/efwoods/vue-template.git
