@@ -19,3 +19,6 @@
 [submodule "Base-Input"]
 	path = Base-Input
 	url = https://github.com/efwoods/Base-Input.git
+[submodule "reusable-components/Base-Input"]
+	path = reusable-components/Base-Input
+	url = https://github.com/efwoods/Base-Input.git
